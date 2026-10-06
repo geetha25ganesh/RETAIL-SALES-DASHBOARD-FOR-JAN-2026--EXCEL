@@ -50,4 +50,4 @@ Equipped with dynamic Excel slicers to filter all dashboard visuals on the fly:
 An interactive retail sales dashboard designed to analyze operational performance, profitability, regional distribution, and individual sales contributor metrics for January 2026.
 
 ## 📊 Dashboard Preview
-![Retail Sales Dashboard](Retail Sales Dashboard Jan 2026.png)
+![Retail Sales Dashboard](Retail_Sales_Dashboard_Jan_2026.png)
